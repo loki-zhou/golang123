@@ -12,7 +12,7 @@ require (
 	github.com/jinzhu/gorm v1.9.8
 	github.com/microcosm-cc/bluemonday v1.0.2
 	github.com/robfig/cron v1.1.0
-	github.com/russross/blackfriday v2.0.0+incompatible
+	github.com/russross/blackfriday v1.5.2
 	github.com/satori/go.uuid v1.2.0
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 )
