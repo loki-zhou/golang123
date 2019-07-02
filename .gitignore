@@ -1,6 +1,7 @@
 *.log
 .idea
 *.swp
+*.exe
 
 debug
 golang123
@@ -21,3 +22,4 @@ mobile/npm-debug.log
 
 review.md
 build.md
+go.sum
